@@ -53,13 +53,13 @@ The "movies.csv" file contains data about various movies. Here's an overview of 
 24. **Network Analysis of Directors and Stars:** Analyze the network of collaborations between directors and stars. Identify which pairs of directors and stars most frequently work together and the average gross earnings of their movies. (Use advanced data manipulation to create this matrix and then apply functions to calculate frequencies and averages.)
 
 # Methodology
-# Data Import and Cleaning
+**Data Import and Cleaning**
 **Import Data:** Loaded the movie dataset into Excel.
 **Clean Data:**
 **Handling Null Values:** Identified and addressed missing values by imputing with mean, median, or using other methods as appropriate.
 **Feature Engineering:** Created new columns or transformed existing features to enhance the dataset for analysis.
 
-# Analysis and Visualization
+**Analysis and Visualization**
 
 # Data Sorting and Filtering:
 **Sort Data:** Sorted the dataset by year of release and gross earnings using Excel’s SORT function.
