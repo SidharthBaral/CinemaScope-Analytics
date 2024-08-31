@@ -8,22 +8,22 @@ The project aims to perform a thorough analysis of Hollywood Insights Inc.'s com
 
 **Dataset Description:** 
 
-* The "movies.csv" file contains data about various movies. Here's an overview of its structure and the type of data it includes:
- - **name:** Movie name (String)
- - **rating:** Movie rating (String)
- - **genre:** Genre of the movie (String)
- - **year:** Year of release (Integer)
- - **released:** Release date (String, includes country)
- - **score:** IMDb score (Float)
- - **votes:** Number of votes on IMDb (Float)
- - **director:** Director's name (String)
- - **writer:** Writer's name (String)
- - **star:** Main star's name (String)
- - **country:** Country of origin (String)
- - **budget:** Production budget (Float)
- - **gross:** Gross earnings (Float)
- - **company:** Production company (String)
- - **runtime:** Runtime in minutes (Float)
+- The "movies.csv" file contains data about various movies. Here's an overview of its structure and the type of data it includes:
+  - **name:** Movie name (String)
+  - **rating:** Movie rating (String)
+  - **genre:** Genre of the movie (String)
+  - **year:** Year of release (Integer)
+  - **released:** Release date (String, includes country)
+  - **score:** IMDb score (Float)
+  - **votes:** Number of votes on IMDb (Float)
+  - **director:** Director's name (String)
+  - **writer:** Writer's name (String)
+  - **star:** Main star's name (String)
+  - **country:** Country of origin (String)
+  - **budget:** Production budget (Float)
+  - **gross:** Gross earnings (Float)
+  - **company:** Production company (String)
+  - **runtime:** Runtime in minutes (Float)
   
 **Part 1:** Excel Data Analysis: Manipulation, Formulas and Functions
 
