@@ -100,3 +100,4 @@ Develop a comprehensive and interactive Excel dashboard that integrates key metr
    -  **Bar Chart:** Displayed the count of movies across various genres, identifying the most and least popular genres.
     
   **Slicers:**
+  
