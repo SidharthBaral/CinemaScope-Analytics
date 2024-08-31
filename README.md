@@ -9,8 +9,8 @@ The project aims to perform a thorough analysis of Hollywood Insights Inc.'s com
 **Dataset Description:** 
 
 * The "movies.csv" file contains data about various movies. Here's an overview of its structure and the type of data it includes:
- 1- **name:** Movie name (String)
- 2- **rating:** Movie rating (String)
+ - **name:** Movie name (String)
+ - **rating:** Movie rating (String)
  - **genre:** Genre of the movie (String)
  - **year:** Year of release (Integer)
  - **released:** Release date (String, includes country)
