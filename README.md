@@ -101,3 +101,4 @@ Develop a comprehensive and interactive Excel dashboard that integrates key metr
     
   **Slicers:**
   
+https://github.com/SidharthBaral/CinemaScope-Analytics/blob/main/CinemaScope_Analytics_Dashboard.jpeg
