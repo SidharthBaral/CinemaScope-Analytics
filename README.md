@@ -56,8 +56,8 @@ The "movies.csv" file contains data about various movies. Here's an overview of 
 **Data Import and Cleaning**
 * **Import Data:** Loaded the movie dataset into Excel.
 * **Clean Data:**
-- **Handling Null Values:** Identified and addressed missing values by imputing with mean, median, or using other methods as appropriate.
-- **Feature Engineering:** Created new columns or transformed existing features to enhance the dataset for analysis.
+* - **Handling Null Values:** Identified and addressed missing values by imputing with mean, median, or using other methods as appropriate.
+  - **Feature Engineering:** Created new columns or transformed existing features to enhance the dataset for analysis.
 
 **Analysis and Visualization**
 
