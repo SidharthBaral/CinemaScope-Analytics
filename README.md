@@ -60,23 +60,21 @@ The "movies.csv" file contains data about various movies. Here's an overview of 
   - **Feature Engineering:** Created new columns or transformed existing features to enhance the dataset for analysis.
 
 **Analysis and Visualization**
+* **Data Sorting and Filtering:**
+  - **Sort Data:** Sorted the dataset by year of release and gross earnings using Excel’s SORT function.
+  - **Filter Data:** Applied filters to display movies with an IMDb score greater than 8.0.
 
-# Data Sorting and Filtering:
-**Sort Data:** Sorted the dataset by year of release and gross earnings using Excel’s SORT function.
-**Filter Data:** Applied filters to display movies with an IMDb score greater than 8.0.
+**Pivot Tables and Charts:**
 
-# Pivot Tables and Charts:
+* **Pivot Tables:** Utilized pivot tables to analyze distributions, such as genre-wise movie counts, average budgets, and gross earnings.
+* **Charts:**
+  - **Line Chart:** Visualized trends over time for metrics like IMDb scores and gross earnings.
+  - **Bar Chart:** Compared movie production by country and identified top production companies.
+  - **Scatter Plot:** Examined the correlation between budget and gross earnings.
+  - **Pie Chart:** Showed the distribution of movies across different genres and countries.
 
-**Pivot Tables:** Utilized pivot tables to analyze distributions, such as genre-wise movie counts, average budgets, and gross earnings.
-**Charts:**
-  **Line Chart:** Visualized trends over time for metrics like IMDb scores and gross earnings.
-  **Bar Chart:** Compared movie production by country and identified top production companies.
-  **Scatter Plot:** Examined the correlation between budget and gross earnings.
-  **Pie Chart:** Showed the distribution of movies across different genres and countries.
-
-# Forecasting:
-
-**Predictive Analysis:** Applied Excel’s forecasting tools to project future industry trends, focusing on gross earnings based on historical data, genre, budget, and IMDb score.
+* **Forecasting:**
+  - **Predictive Analysis:** Applied Excel’s forecasting tools to project future industry trends, focusing on gross earnings based on historical data, genre, budget, and IMDb score.
 # Insights and Trends
 **Correlation Analysis:** Analyzed correlations between movie runtime and IMDb score.
 **Profitability Calculation:** Created a new column to calculate profitability by subtracting budget from gross earnings.
