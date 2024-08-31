@@ -76,27 +76,27 @@ The project aims to perform a thorough analysis of Hollywood Insights Inc.'s com
 * **Forecasting:**
   - **Predictive Analysis:** Applied Excel’s forecasting tools to project future industry trends, focusing on gross earnings based on historical data, genre, budget, and IMDb score.
 # Insights and Trends
-**Correlation Analysis:** Analyzed correlations between movie runtime and IMDb score.
-**Profitability Calculation:** Created a new column to calculate profitability by subtracting budget from gross earnings.
-**Genre and Country Analysis:** Assessed the distribution of movies by genre and country, identifying trends and patterns.
-**Budget and Earnings Trends:** Analyzed how average movie budgets and earnings have evolved over time.
+- **Correlation Analysis:** Analyzed correlations between movie runtime and IMDb score.
+- **Profitability Calculation:** Created a new column to calculate profitability by subtracting budget from gross earnings.
+- **Genre and Country Analysis:** Assessed the distribution of movies by genre and country, identifying trends and patterns.
+- **Budget and Earnings Trends:** Analyzed how average movie budgets and earnings have evolved over time.
 
 # Building an Excel Dashboard
 Develop a comprehensive and interactive Excel dashboard that integrates key metrics and insights derived from the "movies.csv" dataset. The dashboard should provide a holistic view of the movie industry trends, focusing on movie performance, genre popularity, director and star impact, and financial analysis of movie earnings.
 
 # Dashboard Development
-**Importing Charts:**
-  **Charts Integration:** Imported various charts into an Excel sheet to build a visually appealing and interactive dashboard.
+- **Importing Charts:**
+- - **Charts Integration:** Imported various charts into an Excel sheet to build a visually appealing and interactive dashboard.
   
 # Key Insights
 
-  **Breakdown of Movies:**
-    **Line Charts:** Analyzed decade-wise trends to understand movie distribution and performance over time.
-  **Movie Analysis:**
-      **Budget vs. Gross Earnings:** Utilized a stacked bar chart to compare the budget and gross earnings of the top 5 movies.
-  **Distribution of Movies by Ratings:**
-    **Pie Chart:** Illustrated the distribution of movies across different ratings to highlight rating trends.
-  **Number of Movies by Genre:**
-    **Bar Chart:** Displayed the count of movies across various genres, identifying the most and least popular genres.
+- **Breakdown of Movies:**
+- - **Line Charts:** Analyzed decade-wise trends to understand movie distribution and performance over time.
+-  **Movie Analysis:**
+-  - **Budget vs. Gross Earnings:** Utilized a stacked bar chart to compare the budget and gross earnings of the top 5 movies.
+-  **Distribution of Movies by Ratings:**
+-  - **Pie Chart:** Illustrated the distribution of movies across different ratings to highlight rating trends.
+-  **Number of Movies by Genre:**
+-  -  **Bar Chart:** Displayed the count of movies across various genres, identifying the most and least popular genres.
     
   **Slicers:**
