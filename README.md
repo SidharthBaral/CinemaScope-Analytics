@@ -85,17 +85,17 @@ The project aims to perform a thorough analysis of Hollywood Insights Inc.'s com
 Develop a comprehensive and interactive Excel dashboard that integrates key metrics and insights derived from the "movies.csv" dataset. The dashboard should provide a holistic view of the movie industry trends, focusing on movie performance, genre popularity, director and star impact, and financial analysis of movie earnings.
 
 # Dashboard Development
-- **Importing Charts:**
--   **Charts Integration:** Imported various charts into an Excel sheet to build a visually appealing and interactive dashboard.
+-  **Importing Charts:**
+   -  **Charts Integration:** Imported various charts into an Excel sheet to build a visually appealing and interactive dashboard.
   
 # Key Insights
 
 - **Breakdown of Movies:**
-- -  **Line Charts:** Analyzed decade-wise trends to understand movie distribution and performance over time.
+  -  **Line Charts:** Analyzed decade-wise trends to understand movie distribution and performance over time.
 -  **Movie Analysis:**
-  -  **Budget vs. Gross Earnings:** Utilized a stacked bar chart to compare the budget and gross earnings of the top 5 movies.
+   -  **Budget vs. Gross Earnings:** Utilized a stacked bar chart to compare the budget and gross earnings of the top 5 movies.
 -  **Distribution of Movies by Ratings:**
-  -  **Pie Chart:** Illustrated the distribution of movies across different ratings to highlight rating trends.
+   -  **Pie Chart:** Illustrated the distribution of movies across different ratings to highlight rating trends.
 -  **Number of Movies by Genre:**
    -  **Bar Chart:** Displayed the count of movies across various genres, identifying the most and least popular genres.
     
