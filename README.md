@@ -100,5 +100,13 @@ Develop a comprehensive and interactive Excel dashboard that integrates key metr
    -  **Bar Chart:** Displayed the count of movies across various genres, identifying the most and least popular genres.
     
   **Slicers:**
-  ![CinemaScope_Analytics_Dashboard](https://github.com/user-attachments/assets/d040ff53-641c-46a1-810c-777a47a3dabe)
+  
+  
+![image](https://github.com/user-attachments/assets/b14fcde5-64a7-4fb2-9540-f94cac71e288)
 
+
+# Actionables:
+Use successful movies like Avengers: Endgame and Avatar in your marketing to show their success and attract attention. Partner with studios or distributors for joint promotions or exclusive content. Focus on creating and promoting R-rated content to appeal to that audience and adjust your marketing to match their interests.
+
+# Conclusion
+The dashboards and analyses provide a comprehensive view of the movie industry, blending financial metrics and creative insights. From identifying key trends in decade-wise movie performance to evaluating genre popularity and production house success, the data-driven approach offers valuable perspectives for producers, investors, and creators. By visualizing financial correlations, genre distributions, and forecasting future trends, this project equips stakeholders with actionable insights to make informed decisions and strategize effectively within the dynamic world of filmmaking.
