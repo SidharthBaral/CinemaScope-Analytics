@@ -100,5 +100,5 @@ Develop a comprehensive and interactive Excel dashboard that integrates key metr
    -  **Bar Chart:** Displayed the count of movies across various genres, identifying the most and least popular genres.
     
   **Slicers:**
-  
-https://github.com/SidharthBaral/CinemaScope-Analytics/blob/main/CinemaScope_Analytics_Dashboard.jpeg
+  ![CinemaScope_Analytics_Dashboard](https://github.com/user-attachments/assets/d040ff53-641c-46a1-810c-777a47a3dabe)
+
