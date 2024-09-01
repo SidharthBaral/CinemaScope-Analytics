@@ -102,7 +102,8 @@ Develop a comprehensive and interactive Excel dashboard that integrates key metr
   **Slicers:**
   
   
-![image](https://github.com/user-attachments/assets/b14fcde5-64a7-4fb2-9540-f94cac71e288)
+![image](https://github.com/user-attachments/assets/666148cc-eda0-4fc8-9959-d63f95d182e2)
+
 
 
 # Actionables:
