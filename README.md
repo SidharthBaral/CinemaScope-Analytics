@@ -81,7 +81,7 @@ The project aims to perform a thorough analysis of Hollywood Insights Inc.'s com
 - **Genre and Country Analysis:** Assessed the distribution of movies by genre and country, identifying trends and patterns.
 - **Budget and Earnings Trends:** Analyzed how average movie budgets and earnings have evolved over time.
 
-# Building an Excel Dashboard
+# Part-2 Building an Excel Dashboard
 Develop a comprehensive and interactive Excel dashboard that integrates key metrics and insights derived from the "movies.csv" dataset. The dashboard should provide a holistic view of the movie industry trends, focusing on movie performance, genre popularity, director and star impact, and financial analysis of movie earnings.
 
 # Dashboard Development
@@ -90,11 +90,13 @@ Develop a comprehensive and interactive Excel dashboard that integrates key metr
   
 # Key Insights
 
-- **Breakdown of Movies:**
-  -  **Line Charts:** Analyzed decade-wise trends to understand movie distribution and performance over time.
--  **Movie Analysis:**
-   -  **Budget vs. Gross Earnings:** Utilized a stacked bar chart to compare the budget and gross earnings of the top 5 movies.
--  **Distribution of Movies by Ratings:**
+- **Number of movies and Gross collections over decades:**
+  -  Created Bar plot to count the number of movies per decade. Further created line charts to observe average gross collections and profits over decades.
+  -  **Observations:** We can clearly see that number of movies produced over past four decades have increased significantely. Hence the gross collections of movies over these decades has also increased.
+-  **Gross Collection Analysis:**
+   -  **Gross Budget ratio and Profit Difference Percentage:**  For observing the trends of profit difference pecentage over last forty years, line chart is considered. At first the average of the gross profit of movies per year is calculated then the gross profit difference in percentage is calculated by taking the profit difference of movies of a year from its previous year.
+  -  **Gross Budget Ratio:** In order to visualise the gross budget ratio line chart is used. The gross budget ratio of the movies is calculated by dividing the gross collection of movies per year by total budget of the movies produced over year.
+  -  **Observations:** Initially the movies were made with low budgets and they were not much profitable. Thismight have happen because of the reason that people were not much aware of movies or they were less interested in the genre of films that were produced then. During the time of 1984-1986, 1990-1992, 1996-1998 most of the movies made huge losses. From the year 2009 onwardsmost of the movies were high budget and profitable as compared to past years.    
    -  **Pie Chart:** Illustrated the distribution of movies across different ratings to highlight rating trends.
 -  **Number of Movies by Genre:**
    -  **Bar Chart:** Displayed the count of movies across various genres, identifying the most and least popular genres.
