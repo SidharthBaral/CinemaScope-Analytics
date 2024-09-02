@@ -95,10 +95,12 @@ Develop a comprehensive and interactive Excel dashboard that integrates key metr
   -  **Observations:** We can clearly see that number of movies produced over past four decades have increased significantely. Hence the gross collections of movies over these decades has also increased.
 -  **Gross Collection Analysis:**
    -  **Gross Budget ratio and Profit Difference Percentage:**  For observing the trends of profit difference pecentage over last forty years, line chart is considered. At first the average of the gross profit of movies per year is calculated then the gross profit difference in percentage is calculated by taking the profit difference of movies of a year from its previous year.
-  -  **Gross Budget Ratio:** In order to visualise the gross budget ratio line chart is used. The gross budget ratio of the movies is calculated by dividing the gross collection of movies per year by total budget of the movies produced over year.
-  -  **Observations:** Initially the movies were made with low budgets and they were not much profitable. Thismight have happen because of the reason that people were not much aware of movies or they were less interested in the genre of films that were produced then. During the time of 1984-1986, 1990-1992, 1996-1998 most of the movies made huge losses. From the year 2009 onwardsmost of the movies were high budget and profitable as compared to past years.    
-   -  **Pie Chart:** Illustrated the distribution of movies across different ratings to highlight rating trends.
--  **Number of Movies by Genre:**
+   -  **Gross Budget Ratio:** In order to visualise the gross budget ratio line chart is used. The gross budget ratio of the movies is calculated by dividing the gross collection of movies per year by total budget of the movies produced over year.
+   -  **Observations:** Initially the movies were made with low budgets and they were not much profitable. Thismight have happen because of the reason that people were not much aware of movies or they were less interested in the genre of films that were produced then. During the time of 1984-1986, 1990-1992, 1996-1998 most of the movies made huge losses. From the year 2009 onwardsmost of the movies were high budget and profitable as compared to past years.
+-  **Popular Movie Producing companies:** Illustrated the distribution of popular movie producing companies using pie chart.
+  **Observation:** We can observe that Universal Pictures followed by Warner Bros., Columbia Pictures are the most popular movie producing companies.
+-  **Top ten genres and their average scores:** Stacked Bar chart is used to illustrate the above topic. The chart is prepared using the features like IMDB rating and sum of votes.
+-  **Observation:** The genres like Action followed by Comedy and Drama are popular genres interms of number of views. On the other hand the genres like History followed by Musical, Music, Action have highest average IMDB scores.
    -  **Bar Chart:** Displayed the count of movies across various genres, identifying the most and least popular genres.
     
   **Slicers:**
